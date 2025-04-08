@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #root {
+/*     background-image: url('https://media.karousell.com/media/photos/products/2025/1/5/gta5_graphisc_mods_fivem_nve_2_1736099421_6f3059f5_progressive.jpg');
+    background-size: cover;
+    height: 100%;
+    width: 100%; */
+}
+
+::-webkit-scrollbar {
+    width: 0;
+    height: 0;
+}
